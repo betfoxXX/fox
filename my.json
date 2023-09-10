@@ -1,0 +1,26 @@
+{
+    "sites":[
+        {
+            "filterable":1,
+            "quickSearch":1,
+            "key":"alist_tvbox_vod1",
+            "name":"Alist-TVBox",
+            "type":3,
+            "api":"alist_tvbox.js",
+            "changeable":0,
+            "ext":"http://154.8.204.57:40021/vod1",
+            "searchable":1
+        },
+        {
+            "filterable":1,
+            "quickSearch":1,
+            "key":"alist_tvbox_vod",
+            "name":"Alist-网盘",
+            "type":3,
+            "api":"alist_tvbox.js",
+            "changeable":0,
+            "ext":"http://154.8.204.57:40021/vod",
+            "searchable":1
+        }
+    ]
+}
